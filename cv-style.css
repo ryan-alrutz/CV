@@ -1,0 +1,22 @@
+header {
+  text-align: center;
+}
+
+p, ul, li {
+  color: red;
+  text-align: center;
+}
+
+h3, h1, .skills {
+  color: blue;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+}
+.skill {
+  text-align: right;
+}
+.stars {
+  text-align: left;
+}
